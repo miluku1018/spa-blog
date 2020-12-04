@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/spa-blog/static/js/main.d66b6aba.chunk.js",
+    "main.js.map": "/spa-blog/static/js/main.d66b6aba.chunk.js.map",
+    "runtime-main.js": "/spa-blog/static/js/runtime-main.33699468.js",
+    "runtime-main.js.map": "/spa-blog/static/js/runtime-main.33699468.js.map",
+    "static/js/2.267f6f15.chunk.js": "/spa-blog/static/js/2.267f6f15.chunk.js",
+    "static/js/2.267f6f15.chunk.js.map": "/spa-blog/static/js/2.267f6f15.chunk.js.map",
+    "index.html": "/spa-blog/index.html",
+    "static/js/2.267f6f15.chunk.js.LICENSE.txt": "/spa-blog/static/js/2.267f6f15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33699468.js",
+    "static/js/2.267f6f15.chunk.js",
+    "static/js/main.d66b6aba.chunk.js"
+  ]
+}
